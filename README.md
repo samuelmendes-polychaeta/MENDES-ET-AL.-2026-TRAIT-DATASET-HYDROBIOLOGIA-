@@ -7,13 +7,10 @@ CONTENTS:
 
 Macroalgae R project folder
 
-I) Data folder
-a) FUZZY TRAIT DATA 
-b) REFERENCES SUPPORTING TRAIT ASSIGNMENT 
+I) Trait data folder: trait scores and supporting references;
 
-II) R folder
-a) GOWER DISTANCE MATRIX R SCRIPT 
+II) R folder: Gower distance matrix R SCRIPT;
 
-III) R studio project file "macroalgae"
+III) R studio project file "macroalgae".
 
 
